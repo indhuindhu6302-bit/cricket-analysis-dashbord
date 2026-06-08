@@ -41,4 +41,4 @@ The Cricket Analysis Dashboard is an interactive Excel-based data analytics proj
 *The dashboard transformed raw cricket data into meaningful visual insights for easier decision-making.
 # Final Conclusion
 
-The Cricket Analysis Dashboard successfully provides a comprehensive view of player and team performance through interactive visualizations and KPIs. By leveraging Excel's analytical features, the project enables efficient performance tracking, comparison, and data-driven decision-making, making cricket statistics easier to understand and evaluate. 🏏📈
+The Cricket Analysis Dashboard successfully provides a comprehensive view of player and team performance through interactive visualizations and KPIs. By leveraging Excel's analytical features, the project enables efficient performance tracking, comparison, and data-driven decision-making, making cricket statistics easier to understand and evaluate.
