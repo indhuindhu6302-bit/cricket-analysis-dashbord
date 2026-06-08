@@ -33,3 +33,12 @@ The Cricket Analysis Dashboard is an interactive Excel-based data analytics proj
 # Dashbord 
 <img width="1616" height="642" alt="cricket dashboard" src="https://github.com/user-attachments/assets/8dc12467-280b-4442-84ce-7f186463f17b" />
 
+
+# Project Insights
+*Top-performing players were identified based on runs scored, batting average, strike rate, and wickets taken.
+*Country-wise analysis revealed differences in batting and bowling performance across teams.
+*Interactive filters enabled quick comparison of player statistics and performance trends.
+*The dashboard transformed raw cricket data into meaningful visual insights for easier decision-making.
+# Final Conclusion
+
+The Cricket Analysis Dashboard successfully provides a comprehensive view of player and team performance through interactive visualizations and KPIs. By leveraging Excel's analytical features, the project enables efficient performance tracking, comparison, and data-driven decision-making, making cricket statistics easier to understand and evaluate. 🏏📈
