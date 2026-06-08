@@ -21,3 +21,11 @@ The Cricket Analysis Dashboard is an interactive Excel-based data analytics proj
 -What is the average strike rate across all players?
 
 # Dashbord Interaction
+
+
+<a href="https://github.com/indhuindhu6302-bit/cricket-analysis-dashbord/blob/main/cricket%20dashboard.png">view dashbord</a>
+# Process
+-Collected and cleaned cricket player performance data for analysis.
+-Organized the dataset and created Pivot Tables to summarize key metrics.
+-Developed interactive charts, KPI cards, and slicers in Excel.
+-Analyzed player and country-wise performance to generate actionable insights.
