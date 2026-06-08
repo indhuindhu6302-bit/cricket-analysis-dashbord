@@ -19,3 +19,5 @@ The Cricket Analysis Dashboard is an interactive Excel-based data analytics proj
 -Who has the highest individual score?
 -Which player has the best economy rate?
 -What is the average strike rate across all players?
+
+# Dashbord Interaction
